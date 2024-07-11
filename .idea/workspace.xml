@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ddd81b-aaf3-4da7-b3ee-dba8b14961b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Login/Login_Using_AdID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Login/Login_Using_Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Login/Login_Using_MobileNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Login/Login_Using_OTP.java" afterDir="false" />
+    <list default="true" id="e1ddd81b-aaf3-4da7-b3ee-dba8b14961b3" name="Changes" comment="user login">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Create/New_Account_Create.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Account_Login/Login_NewUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,24 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Login_Using_AdID.executor": "Run",
-    "TestNG.Login_Using_Email.LoginEmail.executor": "Run",
-    "TestNG.Login_Using_Email.executor": "Run",
-    "TestNG.Login_Using_MobileNumber.executor": "Run",
-    "TestNG.Login_Using_OTP.LoginOTP.executor": "Debug",
-    "TestNG.Login_Using_OTP.executor": "Run",
-    "TestNG.Login_Using_Password.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ASUS/OneDrive/Desktop/MyVivah_automationTesting",
-    "onboarding.tips.debug.path": "C:/Users/ASUS/OneDrive/Desktop/MyVivah_automationTesting/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Login_NewUser.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_AdID.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_Email.LoginEmail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_Email.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_MobileNumber.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_OTP.LoginOTP.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Login_Using_OTP.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Login_Using_Password.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/MyVivah_automationTesting&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASUS/OneDrive/Desktop/MyVivah_automationTesting/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720160313943</updated>
     </task>
+    <task id="LOCAL-00001" summary="user login">
+      <option name="closed" value="true" />
+      <created>1720600874700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720600874700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="user login" />
+    <option name="LAST_COMMIT_MESSAGE" value="user login" />
   </component>
 </project>
